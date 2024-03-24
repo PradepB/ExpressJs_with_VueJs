@@ -7,6 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+Please create .env and .env
 npm run serve
 ```
 
