@@ -7,7 +7,7 @@ npm install
 
 ### env setup for development
 ```
-Please create .env and PORT=8080
+Please create .env
 PORT=8080
 SERVER_PORT = 8070
 ```
