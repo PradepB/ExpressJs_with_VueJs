@@ -5,9 +5,15 @@
 npm install
 ```
 
+### env setup for development
+```
+Please create .env and PORT=8080
+PORT=8080
+SERVER_PORT = 8070
+```
+
 ### Compiles and hot-reloads for development
 ```
-Please create .env and .env
 npm run serve
 ```
 
